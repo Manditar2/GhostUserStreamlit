@@ -1,0 +1,15 @@
+{
+    "name": "Ghost user streamlit",
+    "version": "1.0.0",
+    "description": "Usuario fantasma que ejecuta las querys de los streamlit",
+    "main": "test.js",
+    "scripts": {
+      "start": "node test.js"
+    },
+    "dependencies": {
+      "puppeteer": "^21.0.0"
+    },
+    "author": "gabriel.castillo@arcorpime.cl",
+    "license": "MIT"
+  }
+  
